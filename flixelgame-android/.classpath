@@ -3,7 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
-	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/flixelgame"/>
 	<classpathentry exported="true" kind="lib" path="/flixelgame/libs/gdx.jar" sourcepath="/flixelgame/libs/gdx-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="/flixelgame/libs/gdx-freetype.jar" sourcepath="/flixelgame/libs/gdx-freetype-sources.jar"/>
